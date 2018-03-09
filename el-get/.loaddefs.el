@@ -3,7 +3,7 @@
 ;;; Code:
 
 
-;;;### (autoloads nil "el-get/el-get" "el-get/el-get.el" (23185 43668
+;;;### (autoloads nil "el-get/el-get" "el-get/el-get.el" (23203 3748
 ;;;;;;  0 0))
 ;;; Generated autoloads from el-get/el-get.el
 
@@ -104,7 +104,7 @@ already installed packages is considered.
 ;;;***
 
 ;;;### (autoloads nil "el-get/el-get-bundle" "el-get/el-get-bundle.el"
-;;;;;;  (23185 43668 0 0))
+;;;;;;  (23203 3748 0 0))
 ;;; Generated autoloads from el-get/el-get-bundle.el
 
 (autoload 'el-get-bundle-el-get "el-get/el-get-bundle" "\
@@ -159,7 +159,7 @@ required.
 ;;;***
 
 ;;;### (autoloads nil "el-get/el-get-check" "el-get/el-get-check.el"
-;;;;;;  (23185 43668 0 0))
+;;;;;;  (23203 3748 0 0))
 ;;; Generated autoloads from el-get/el-get-check.el
 
 (autoload 'el-get-check-recipe "el-get/el-get-check" "\
@@ -178,7 +178,7 @@ object or a file path.
 ;;;***
 
 ;;;### (autoloads nil "el-get/el-get-list-packages" "el-get/el-get-list-packages.el"
-;;;;;;  (23185 43668 0 0))
+;;;;;;  (23203 3748 0 0))
 ;;; Generated autoloads from el-get/el-get-list-packages.el
 
 (autoload 'el-get-list-packages "el-get/el-get-list-packages" "\
@@ -188,25 +188,11 @@ Display a list of packages.
 
 ;;;***
 
-;;;### (autoloads nil "solidity-mode/solidity-mode" "solidity-mode/solidity-mode.el"
-;;;;;;  (23185 43731 0 0))
-;;; Generated autoloads from solidity-mode/solidity-mode.el
-
-(add-to-list 'auto-mode-alist '("\\.sol\\'" . solidity-mode))
-
-(autoload 'solidity-mode "solidity-mode/solidity-mode" "\
-Major mode for editing solidity language buffers.
-
-\(fn)" t nil)
-
-;;;***
-
 ;;;### (autoloads nil nil ("el-get/el-get-autoloading.el" "el-get/el-get-build.el"
 ;;;;;;  "el-get/el-get-byte-compile.el" "el-get/el-get-core.el" "el-get/el-get-custom.el"
 ;;;;;;  "el-get/el-get-dependencies.el" "el-get/el-get-install.el"
 ;;;;;;  "el-get/el-get-methods.el" "el-get/el-get-notify.el" "el-get/el-get-recipes.el"
-;;;;;;  "el-get/el-get-status.el" "solidity-mode/solidity-common.el"
-;;;;;;  "solidity-mode/solidity-flycheck.el") (23185 43731 0 0))
+;;;;;;  "el-get/el-get-status.el") (23203 3748 0 0))
 
 ;;;***
 
