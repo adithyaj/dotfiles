@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/adithyaj/" . "Downloads/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/adithyaj/Downloads/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "test.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/adithyaj/.emacs.d/" (22769 51905 0 0) "init.el" "ido.last" "emacs-backup/" "elpa/" "backups/" "auto-save-list/" "../" "./")
+
+ ("/Users/adithyaj/Downloads/" (22769 50804 0 0) "desktop.ini" "ASOCBylaws2015-2016Revised2017.pdf.accreport.html" "ASOC BYLAWS '16-'17.pdf" "acrobatproDC_00000000000000000000000409.dmg" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/adithyaj/" (22769 51812 0 0) "Votified/" "VirtualBox VMs/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "iCloud Drive (Archive)/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "Applications (Parallels)/" "Applications/" "AndroidStudioProjects/" "anaconda/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Adithya’s MacBook Pro-5.2" ".viminfo" ".tu/" ".Trash-1000/" ".Trash/" ".tooling/" ".swp" ".swo" ".swfinfo" ".subversion/" ".ssh/" ".sqlite_history" ".spyder2-py3/" ".sh_history" ".python_history" ".promptauth" ".plotly/" ".p2/" ".ovftool.ssldb" ".oracle_jre_usage/" ".oh-my-zsh/" ".odbc.ini" ".node_repl_history" ".nds/" ".mysql_history" ".matplotlib/" ".lesshst" ".kodi/" ".jupyter/" ".ipython/" ".idlerc/" ".htoprc" ".gradle/" ".gitconfig" ".git-credentials" ".gervill/" ".emulator_console_auth_token" ".emacs.d/" ".eclipse/" ".DS_Store" ".cups/" ".continuum/" ".config/" ".condarc" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile.macports-saved_2016-07-06_at_00:32:41" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".android/" ".anaconda/" ".#.emacs" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
