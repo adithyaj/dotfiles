@@ -1,1 +1,1 @@
-("~/.emacs.d/spacemacs/" "~/.emacs.d/")
+("~/Documents/tech/active/sp18-midterm-p1/" "~/.emacs.d/" "~/.emacs.d/spacemacs/")
