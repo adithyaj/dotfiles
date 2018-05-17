@@ -1,1 +1,1 @@
-("~/Documents/tech/active/sp18-midterm-p1/" "~/.emacs.d/" "~/.emacs.d/spacemacs/")
+("~/Desktop/bravi294/" "~/.emacs.d/" "~/go/src/github.com/61c-teach/sp18-proj5/" "~/go/src/bitbucket.org/adithyajay/proj5-adv/" "~/Documents/tech/active/kingdom-proj-170/" "~/Desktop/kingdom-proj-170/" "~/Desktop/simanneal/" "~/.emacs.d/spacemacs/" "~/Documents/tech/active/sp18-midterm-p1/")
